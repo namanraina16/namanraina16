@@ -1,6 +1,6 @@
 <!-- Your Project Name -->
 <h1 align="center">
-  Naman Raina (WORK IN PROGRESS :(
+  Naman Raina ( WORK IN PROGRESS:( )
   <br>
 </h1>
 
