@@ -39,14 +39,6 @@
 ![Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![CMD](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-## Features
-
-List the key features of your project in a visually appealing way. You can use checkboxes to make it more interactive:
-
-- [x] Feature 1
-- [x] Feature 2
-- [ ] Feature 3 (if it's a work in progress)
-
 
 <p align="center">
   <a href="https://github.com/namanraina16">
@@ -58,5 +50,7 @@ List the key features of your project in a visually appealing way. You can use c
     <a href="https://github.com/namanraina16"><img alt="Naman's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=namanraina16&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/namanraina16"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=namanraina16&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 </a>
+<a>
 ![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+</a>
 </br>
