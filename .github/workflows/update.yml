@@ -13,10 +13,9 @@ jobs:
     runs-on: windows-latest  # Replace with your desired runner environment
 
     steps:
-      - name: Curl to websites
-        run: |
-        curl https://github-readme-activity-graph.vercel.app/graph?username=namanraina16&custom_title=Naman%20Raina's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true
-        curl https://denvercoder1-github-readme-stats.vercel.app/api?username=namanraina16&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866
-        curl https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=namanraina16&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866
-        curl https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namanraina16&theme=radical
-        
+  - name: Curl to websites
+    run: |
+      curl -o graph.png "https://github-readme-activity-graph.vercel.app/graph?username=namanraina16&custom_title=Naman%20Raina's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true"
+      curl -o stats.png "https://denvercoder1-github-readme-stats.vercel.app/api?username=namanraina16&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+      curl -o top-langs.png "https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=namanraina16&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+      curl -o profile-details.png "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namanraina16&theme=radical"
