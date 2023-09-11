@@ -15,11 +15,10 @@
 
 
 
-## About
+## Languages
 
-A brief description of your project. What is it all about? Why should someone be interested in it? Use this section to introduce your project and provide context.
-
-## Demo
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## Tools
 
 Include a link or embed a demo video or GIF showcasing your project in action. Make it visually appealing and interactive.
 
