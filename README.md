@@ -1,16 +1,16 @@
 <!-- Your Project Name -->
 <h1 align="center">
-  Your Project Name
+  Naman Raina
   <br>
 </h1>
 
 <p align="center">
   <a href="#about">About</a> •
-  <a href="#demo">Demo</a> •
-  <a href="#features">Features</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#contributing">Contributing</a> •
+  <a href="#demo">Skills</a> •
+  <a href="#features">Projects</a> •
+  <a href="#installation">Experience</a> •
+  <a href="#usage">Education</a> •
+  <a href="#contributing">Socials</a> •
   <a href="#license">License</a>
 </p>
 
@@ -18,7 +18,12 @@
   <img src="https://img.shields.io/github/license/your-username/your-repo-name" alt="License">
   <img src="https://img.shields.io/github/stars/your-username/your-repo-name" alt="Stars">
   <img src="https://img.shields.io/github/forks/your-username/your-repo-name" alt="Forks">
+  <a href="https://linkedin.com/in/naman-raina-038977202/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
 </p>
+
+
 
 ## About
 
