@@ -10,14 +10,12 @@
   <a href="#features">Projects</a> •
   <a href="#installation">Experience</a> •
   <a href="#usage">Education</a> •
-  <a href="#contributing">Socials</a> •
   <a href="#license">License</a>
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/github/license/your-username/your-repo-name" alt="License">
-  <img src="https://img.shields.io/github/stars/your-username/your-repo-name" alt="Stars">
-  <img src="https://img.shields.io/github/forks/your-username/your-repo-name" alt="Forks">
+  <a href="https://namanraina16.wixsite.com/naman-raina-cv" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
   <a href="https://linkedin.com/in/naman-raina-038977202/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
