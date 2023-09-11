@@ -59,4 +59,4 @@ List the key features of your project in a visually appealing way. You can use c
   <a href="https://github.com/namanraina16"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=namanraina16&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-[![Naman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=namanraina16&custom_title=Naman%20Raina%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)](https://github.com/namanraina16/github-readme-activity-graph)
+![Naman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=namanraina16&custom_title=Naman%20Raina%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)](https://github.com/namanraina16/github-readme-activity-graph)
