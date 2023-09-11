@@ -1,19 +1,16 @@
-name: Update Stats
+name: Update status
+
 on:
-  # Define the event that triggers the workflow
   push:
     branches:
-      - main  # Replace with your branch name
-  pull_request:
-    branches:
-      - main  # Replace with your branch name
+      - main
 
 jobs:
-  build:
-    runs-on: windows-latest  # Replace with your desired runner environment
+  hello:
+    runs-on: ubuntu-latest
 
     steps:
-      - name: Curl to websites
+      - name: Say Hello
         run: |
           curl -o graph.png "https://github-readme-activity-graph.vercel.app/graph?username=namanraina16&custom_title=Naman%20Raina's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true"
           curl -o stats.png "https://denvercoder1-github-readme-stats.vercel.app/api?username=namanraina16&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
