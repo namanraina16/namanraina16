@@ -50,11 +50,12 @@ List the key features of your project in a visually appealing way. You can use c
 
 <p align="center">
   <a href="https://github.com/namanraina16">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=namanraina16&theme=radical&border=7F3FBF&background=0D1117" alt="Naman's GitHub streak"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namanraina16&theme=radical" alt="Naman's GitHub Contribution"/>
   </a>
 </p>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namanraina16&hide=TeX&layout=compact)
-![Naman's Github Stats](https://github-readme-stats.vercel.app/api?username=namanraina16&count_private=true&show_icons=true&include_all_commits=true)
-
+<a> 
+    <a href="https://github.com/namanraina16"><img alt="Naman's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=namanraina16&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/namanraina16"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=namanraina16&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
