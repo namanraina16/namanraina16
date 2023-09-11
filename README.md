@@ -5,14 +5,6 @@
 </h1>
 
 <p align="center">
-  <a href="#about">About</a> •
-  <a href="#demo">Skills</a> •
-  <a href="#features">Projects</a> •
-  <a href="#installation">Experience</a> •
-  <a href="#usage">Education</a> •
-  <a href="#license">License</a>
-</p>
-<p align="center">
   <a href="https://namanraina16.wixsite.com/naman-raina-cv" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
