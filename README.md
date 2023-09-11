@@ -41,6 +41,6 @@ List the key features of your project in a visually appealing way. You can use c
 - [x] Feature 2
 - [ ] Feature 3 (if it's a work in progress)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
-![Naman's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namanraina16&hide=TeX&layout=compact)
+![Naman's Github Stats](https://github-readme-stats.vercel.app/api?username=namanraina16&count_private=true&show_icons=true&include_all_commits=true)
 
