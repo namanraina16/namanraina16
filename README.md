@@ -1,8 +1,5 @@
 <!-- Your Project Name -->
 <h1 align="center">
-  <br>
-  <img src="https://placekitten.com/200/200" alt="Project Logo">
-  <br>
   Your Project Name
   <br>
 </h1>
