@@ -14,12 +14,6 @@
   <a href="https://linkedin.com/in/naman-raina-038977202/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="namanraina16"/>
  </a>
- <a href="https://leetcode.com/namanraina16/" target="blank">
- <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="namanraina16">
- </a>
- <a href="https://www.reddit.com/user/palindromicnaam" target="blank">
- <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="namanraina16">
- </a>
 </p>
 
 
