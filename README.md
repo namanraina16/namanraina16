@@ -3,7 +3,7 @@
 </a>
 <!-- Your Project Name -->
 <h1 align="center">
-  Naman Raina (WORK IN PROGRESS :slightly_frowning_face:)
+  Naman Raina 
   <br>
 </h1>
 
