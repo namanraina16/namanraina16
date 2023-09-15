@@ -14,12 +14,6 @@
   <a href="https://linkedin.com/in/naman-raina-038977202/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="namanraina16"/>
  </a>
- <a href="https://leetcode.com/namanraina16/" target="blank">
- <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="namanraina16">
- </a>
- <a href="https://www.reddit.com/user/palindromicnaam" target="blank">
- <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="namanraina16">
- </a>
 </p>
 
 
@@ -42,6 +36,8 @@
 ![Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![CMD](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+
+## Statistics
 
 <p align="center">
   <a href="https://github.com/namanraina16">
